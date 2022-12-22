@@ -1,10 +1,10 @@
 
  ## Olá, Eu sou o Gabriel Mota 
  
- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-mota-589aa5229/)
- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://https://https://www.mailto:gabrieldeoliveirams@gmail.com/) 
-
-
+ ● 💻 Futuro Desenvolvedor Front-End<br/>
+ ● 📚 Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas<br/>
+ ● ✍🏾 Aprimorando meus conhecimentos dia após dia em HTML5, CSS3, JavaScript
+ 
 ![Gabriel Mota GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmota-santos&count_private=true)
 
 ### 👨🏾‍💻 👨🏾‍💻 👨🏾‍💻
@@ -17,4 +17,5 @@
 <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />          
 </div><br/>
 
-Estudante de Análise e Desenvolvimento de Sistemas
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-mota-589aa5229/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://https://https://www.mailto:gabrieldeoliveirams@gmail.com/) 
