@@ -3,7 +3,7 @@
  
  ● 💻 Futuro Desenvolvedor Front-End<br/>
  ● 📚 Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas<br/>
- ● 🎯 Aprimorando meus conhecimentos dia após dia em HTML5, CSS3, JavaScript
+ ● 🎯 Aprimorando meus conhecimentos dia após dia em HTML5, CSS3, JavaScript, Node.js
  
 ![Gabriel Mota GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmota-santos&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmota-santos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
