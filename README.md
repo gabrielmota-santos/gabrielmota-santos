@@ -5,7 +5,7 @@
  ● 📚 Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas<br/>
  ● 🎯 Aprimorando meus conhecimentos dia após dia em HTML5, CSS3, JavaScript, Node.js
 
-![Gabriel Mota GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmota-santos&count_private=true)
+![Gabriel Mota GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmota-santos&count_private=true)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmota-santos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br/>
