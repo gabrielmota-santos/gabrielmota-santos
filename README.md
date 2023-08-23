@@ -1,7 +1,7 @@
 
  ## Hello, I'm Gabriel Mota. 
  
- ● 💻 Future Software Developer.<br/>
+ ● 💻 Future Java Developer.<br/>
  ● 📚 Studying Technologist in Systems Analysis and Development.<br/>
  ● 🎯 Improving my knowledge day after day.
 
