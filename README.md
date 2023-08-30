@@ -1,19 +1,28 @@
 
- ## Hey, I'm Gabriel Mota. 
+ ## Hey, I'm Gabriel Mota. 🤙🏾
+ 
+ ## About me
+ 
+<p> I'm studying Technologist in Systems Analysis and Development at Centro Universitário SENAC-SP, at the moment I'm in the fourth semester. I recognize myself as an enthusiast in new technologies, seeking knowledge to acquire day after day. 👨🏾‍💻🚀🎯</p> 
 
+<ul>
+ <li>☕​ Java Enthusiast.</li>
+ <li>🍃 Studying SpringBoot.</li>
+ <li>🎓 Two semesters to graduate.</li>
+</ul>
 <div>
  
-## Status:
+## 📊 GitHub Status:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielmota-santos&theme=algolia) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=algolia&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrielmota-santos&theme=algolia)
 
-## Skills:
+## 💻 Technologies:
 <div style="display: inline_block"><br/>
 <img src="https://skillicons.dev/icons?i=java,spring,python,flask,postgres,mysql,html,css,js,git" width="70%">     
 </div><br/>
 
-## Contacts:
+## 📱 Contacts:
 <a href = "https://www.linkedin.com/in/gabriel-mota-589aa5229/">
       <img width="70" src="linkedin.svg">
 </a
