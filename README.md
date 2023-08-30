@@ -3,7 +3,7 @@
  
  ## About me
  
-<p> I'm studying Technologist in Systems Analysis and Development at Centro Universitário SENAC-SP, at the moment I'm in the fourth semester. I recognize myself as an enthusiast in new technologies, seeking knowledge to acquire day after day. 👨🏾‍💻🚀🎯</p> 
+<p> I'm studying Technologist in Systems Analysis and Development at Centro Universitário SENAC-SP, I'm currently in the fourth semester. I recognize myself as an enthusiast of new technologies, seeking knowledge day after day. 👨🏾‍💻🚀🎯</p> 
 
 <ul>
  <li>☕​ Java Enthusiast.</li>
