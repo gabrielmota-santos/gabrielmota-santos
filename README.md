@@ -3,7 +3,7 @@
 
 <div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmota-santos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmota-santos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Gabriel Mota GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmota-santos&count_private=true)
 
 ##
