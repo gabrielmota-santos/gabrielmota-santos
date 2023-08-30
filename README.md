@@ -9,7 +9,7 @@
 ##
 
 <div style="display: inline_block"><br/>
-<img src="https://skillicons.dev/icons?i=java,spring,python,flask,postgres,mysql,git,html,css,js" width="100%">     
+<img src="https://skillicons.dev/icons?i=java,spring,python,flask,postgres,mysql,html,css,js,git" width="70%">     
 </div><br/>
 
 ##
