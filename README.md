@@ -3,9 +3,9 @@
 
 <div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmota-santos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Gabriel Mota GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmota-santos&count_private=true)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielmota-santos&theme=algolia) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=algolia&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrielmota-santos&theme=algolia)
 ##
 
 <div style="display: inline_block"><br/>
