@@ -1,5 +1,5 @@
 
- ## Hello, I'm Gabriel Mota. 
+ ## Hey, I'm Gabriel Mota. 
 
 <div>
 
