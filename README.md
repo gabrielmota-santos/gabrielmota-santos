@@ -14,15 +14,12 @@
 
 ##
 
-<a href = "mailto: work.gabrieldeoliveirams@gmail.com">
-      <img width="30" src="gmail.svg">
-</a>
 <a href = "https://www.linkedin.com/in/gabriel-mota-589aa5229/">
-      <img width="30" src="linkedin.svg">
+      <img width="70" src="linkedin.svg">
+</a
+<a href = "mailto: work.gabrieldeoliveirams@gmail.com">
+      <img width="70" src="gmail.svg">
 </a>
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-mota-589aa5229/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://https://https://www.mailto:gabrieldeoliveirams@gmail.com/) 
 
 
 </div>
