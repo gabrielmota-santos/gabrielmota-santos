@@ -5,7 +5,7 @@
 ![Gabriel Mota GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmota-santos&count_private=true)
 
 <div style="display: inline_block"><br/>
-<img src="https://skillicons.dev/icons?i=html,css,js," width="100%">     
+<img src="https://skillicons.dev/icons?i=html,css,js,react" width="100%">     
 </div><br/>
 
 ##
